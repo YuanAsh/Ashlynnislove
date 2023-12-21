@@ -522,7 +522,7 @@ body {
 
   }
   .cloud1 {
-    bottom: -380px;
+    bottom: -480px;
     scale: 400%;
     /* background-color: red; */
   }
@@ -540,8 +540,8 @@ body {
   }
 
   .popup.active{
-    width: 370px;
-    /* height: 700px; */
+    width: 300px;
+    height: 700px;
     justify-content: center;
     /* top: 50%; */
     position: absolute;

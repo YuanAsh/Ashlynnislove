@@ -587,8 +587,17 @@ body {
     margin-top: 10px;
     scale: 80%;
   }
-/* 
+
   body {
     overflow: hidden;    
-  } */
+  }
+  .banner{
+	  
+    width: 375px;
+    height: 100%;
+    background-image: linear-gradient(to left bottom, #a5caf2, #bcc0f3, #d9b3e7, #f1a7ce, #fe9fac);
+    background-size: cover;
+    background-position: center;
+
+}
 }

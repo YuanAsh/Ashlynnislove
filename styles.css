@@ -542,11 +542,11 @@ body {
   .popup.active{
     width: 300px;
     height: 700px;
-	font-size: 20px;
+	font-size: 5px;
     justify-content: center;
     /* top: 50%; */
     position: absolute;
-    transform: translate(-50%,-30%) scale(70%);
+    transform: translate(-50%,-30%) ;
     /* text-align: center; */
     /* align-items: center; */
   }
